@@ -2,4 +2,4 @@
 Quantum computing code practice
 
 # About 
-In this page we are trying to learn the Quantum computing book
+The implementetion of quantum algorithms from Quantum computing course UCI using cirq and Qiskit.
